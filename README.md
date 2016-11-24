@@ -9,4 +9,4 @@ How to use on Win:
 
 1. Download to same folder
 2. Run: c:\Temp>java -jar tzupdater.jar -u -v -l file:\\\Temp\tzdata2016g.tar.gz
-3. After chek time: c:\Temp>java TestTime
+3. After cheсk time: c:\Temp>java TestTime
