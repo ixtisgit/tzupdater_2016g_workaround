@@ -8,5 +8,5 @@ For more information, please have a look at [TZupdater failing with tzdata2016g 
 How to use on Win:
 
 1. Download to same folder
-2. Run: c:\Temp>java -jar tzupdater.jar -u -v -l file:\\\Temp\tzdata2016g.tar.gz
+2. Run: c:\Temp>java -jar tzupdater.jar -u -v -l file:///C:\Temp\tzdata2016g.tar.gz
 3. After cheсk time: c:\Temp>java TestTime
